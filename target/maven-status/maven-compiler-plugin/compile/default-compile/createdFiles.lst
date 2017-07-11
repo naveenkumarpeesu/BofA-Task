@@ -1,0 +1,11 @@
+com\bofa\interview\service\CandidateService.class
+com\bofa\interview\config\SpringMvcInitializer.class
+com\bofa\interview\service\CandidateServiceImpl.class
+com\bofa\interview\config\AppConfig.class
+com\bofa\interview\controller\ApplicationController.class
+com\bofa\interview\persistence\dao\CandidateDaoImpl.class
+com\bofa\interview\config\PersistenceConfig$1.class
+com\bofa\interview\persistence\model\Candidate.class
+com\bofa\interview\config\PersistenceConfig.class
+com\bofa\interview\persistence\dao\AbstractDao.class
+com\bofa\interview\persistence\dao\CandidateDao.class
